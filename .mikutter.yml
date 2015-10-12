@@ -1,0 +1,12 @@
+---
+slug: :search
+depends:
+  mikutter: '3.2'
+  plugin:
+  - gtk
+  - gui
+  - uitranslator
+version: '0.0.1'
+author: moguno
+name: 検索（トレンド対応）
+description: Twitter上で、特定のキーワードでツイートを検索する機能を追加する
