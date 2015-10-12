@@ -6,7 +6,7 @@ depends:
   - gtk
   - gui
   - uitranslator
-version: '1.0'
+version: '0.0.1'
 author: moguno
 name: 検索（トレンド対応）
 description: Twitter上で、特定のキーワードでツイートを検索する機能を追加する
